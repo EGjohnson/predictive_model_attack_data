@@ -6,3 +6,7 @@ The data used in this model is considered private since it contains individual d
 GTD TERMS OF USE "Unauthorized Publication of the Data: No part of the GTD may be republished on any website or
 accessible for public download in any format without the express permission of a GTD representative."
 
+# Data used
+Columns that had more than 70% of thier data intact were used.
+
+
