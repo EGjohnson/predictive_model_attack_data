@@ -9,4 +9,13 @@ accessible for public download in any format without the express permission of a
 # Data used
 Columns that had more than 70% of thier data intact were used.
 
+#Packages Used for Python
+* scikit
+* pandas
+* numpy
+* matplotlib.pyplot 
+* sklearn.cluster
+* geopy.distance
+* shapely.geometry
+
 
